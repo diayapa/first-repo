@@ -3,6 +3,6 @@
        <title> Ma 1ere page web</title>
   </head>     
   <body>
-        le corps de mon programme html
+        le corps de mon programme html - it' very nice
   </body>
 </html>
