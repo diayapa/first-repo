@@ -3,6 +3,7 @@
        <title> Ma 1ere page web</title>
   </head>     
   <body>
-        le corps de mon programme html - it' very nice
+        le corps de mon programme html - it' very nice 
+        Je suis un futur developpeur web 
   </body>
 </html>
